@@ -18,5 +18,9 @@ function laundry(numShirts, numEvents, numDays, eventDate){
   return laundryTimes
 }
 
+//Example 1
 laundry(1, 1, 10, [10]);
+
+//Example 2
+//laundry(1, 3, 10, [2, 9, 5]);
 
